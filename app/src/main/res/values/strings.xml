@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BLEAdvertiser</string>
+
+    <string name="no_visible_devices">No visible devices</string>
+    <string name="device_info_placeholder">%1$s\n%2$s</string>
+    <string name="error_bluetooth_not_supported">Bluetooth is not supported</string>
+</resources>

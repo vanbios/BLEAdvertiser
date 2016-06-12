@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white">#FFFFFF</color>
+
+
+    <color name="white_gray">#e0dfdfdf</color>
+    <color name="black">#000000</color>
+    <color name="gray_medium">#727272</color>
+    <color name="gray_dark">#3e3e3e</color>
+    <color name="gray_light">#f2f2f2</color>
+    <color name="gray_light_more_dark_for_selector">#dddddd</color>
+
+    <color name="gray_divider">#b1b1b1</color>
+
+    <color name="custom_yellow">#f9c013</color>
+    <color name="custom_green">#5ab138</color>
+    <color name="custom_green_semi_transparent">#E65ab138</color>
+    <color name="custom_yellow_more_dark_for_selector">#dda613</color>
+    <color name="custom_green_more_dark_for_selector">#348e34</color>
+    <color name="white_more_dark_for_selector">#eae8e8</color>
+    <color name="custom_red">#df3838</color>
+    <color name="custom_red_more_dark_for_selector">#b72b2b</color>
+    <color name="custom_red_semi_transparent">#E6df3838</color>
+    <color name="custom_text_gray">#808080</color>
+    <color name="custom_gray_dot">#5a5a5a</color>
+    <color name="custom_black_semi_transparent">#BF000000</color>
+    <color name="gray_for_selector">#3b3b3b</color>
+    <color name="gray_more_dark_for_selector">#2e2e2e</color>
+
+
+    <color name="custom_green_300">#81C784</color>
+    <color name="custom_red_300">#E57373</color>
+    <color name="custom_yellow_300">#FFF176</color>
+</resources>
